@@ -1,0 +1,16 @@
+{
+  "name": "rclaptimer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.5.0",
+    "johnny-five": "^2.0.0",
+    "nanotimer": "^0.3.15"
+  }
+}
