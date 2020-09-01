@@ -3,6 +3,8 @@
 
 A simple laptimer made with components on hand, 2 HC-SR04 proximity sensors. They are not quite accurate or precice, but they do their job. Measuring the cars passed on a Carrera go track that i got for my birthday.
 
+See [johnny-five.io/examples/proximity-hcsr04/](http://johnny-five.io/examples/proximity-hcsr04/) for wiring
+
 ```
 #Clone the project
 npm install
